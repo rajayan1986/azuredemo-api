@@ -106,7 +106,7 @@
         <version>2.8.0</version>
           <configuration>
               <deploymentType>jar</deploymentType>
-              <!--linuxRuntime>jre11</linuxRuntime>
+              <linuxRuntime>jre11</linuxRuntime>
               <schemaVersion>V2</schemaVersion>
             <subscriptionId>ba932730-e389-4ee0-8165-a7dd3223f245</subscriptionId>
               <resourceGroup>BookMgmntAPI-1.0-rg</resourceGroup>
